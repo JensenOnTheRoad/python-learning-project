@@ -14,10 +14,10 @@ import pymysql
 '''
 
 t_name = "t_b2_permission"
-host = "121.40.121.155"
+host = "localhost"
 port = 13306
-user = "scm"
-password = "scmserver"
+user = "test"
+password = "test"
 database = "scm_test"
 charset = "utf8mb4"
 
